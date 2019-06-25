@@ -25,6 +25,6 @@ The source data for this project can be found here.(https://d396qusza40orc.cloud
 5. Creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 ###Files 'CodeBook.md' contains information on the variables, data set, transformations and work that was done to tidy up the data
 
-'run analysis.R' is the code for the R script used to complete the project goals
+'run.analysis.R' is the code for the R script used to complete the project goals
 
 'Tidy Data.txt' is the output from the 'runAnalysis.R' R script
